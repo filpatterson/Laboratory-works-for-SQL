@@ -1,5 +1,3 @@
-# Laboratory work 3 for SQL
-
 Laboratory work 3
 ===
 
@@ -14,28 +12,28 @@ So, we have list of 5 tables:
 
 First of all, was created database *university* and after this was created table *discipline*:
 
-![Table of disciplines](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/TableOfDisciplines.PNG)
+![Table of disciplines](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/TableOfDisciplines.PNG)
 
 Table was successfully created and saved. After this was created table of groups in university *grupe*:
 
-![Table of groups](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/TableOfGroups.PNG)
+![Table of groups](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/TableOfGroups.PNG)
 
 Then was created table of professors *profesori*:
 
-![Table of professors](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/TableOfProfesors.PNG)
+![Table of professors](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/TableOfProfesors.PNG)
 
 Table of students *studenti*:
 
-![Table of students](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/TableOfStudents.PNG)
+![Table of students](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/TableOfStudents.PNG)
 
 General table that contains data from other tables *studenti_reusita*: 
 
-![Table of general data](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/TableOfStudentsReus.PNG)
+![Table of general data](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/TableOfStudentsReus.PNG)
 
 For connection of data in those tables was used diagram, where were connected all fields with primary keys from all tables:
 
-![Diagram](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/GeneralViewOfDiagram.PNG)
+![Diagram](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/GeneralViewOfDiagram.PNG)
 
 From the left can be seen that all tables and diagram were successfully saved in this database:
 
-![Branch of files](https://github.com/filpatterson/Laboratory-work-nr.-3/blob/master/images/BranchOfTablesInDB.PNG)
+![Branch of files](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%203/images/BranchOfTablesInDB.PNG)

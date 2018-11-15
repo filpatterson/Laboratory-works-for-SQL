@@ -1,5 +1,3 @@
-# Laboratory work 2 for SQL
-
 Laboratory work 2
 ===
 

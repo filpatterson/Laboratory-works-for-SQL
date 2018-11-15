@@ -1,54 +1,44 @@
-# Labs nr 6 for SQL
-
 Laboratory work 6
 ===
 
-First task:
+In the first task it was required to set value "mun. Chisinau" for NULL values from field *Adresa_Postala_Profesor* in table *profesori*:
 
-![1.1](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_1.png)
+![1.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-1-1.png)
 
-![1.2](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_1_1.png)
+![1.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-1-2.png)
 
-Second task:
+In second task was required creation of index and making it unique for field *Cod_Grupa* for table *grupe*:
 
-![2.1](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_2.png)
+![2.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-2-1.png)
 
-![2.2](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_2_1.png)
+![2.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-2-2.png)
 
-![2.3](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_2_2.png)
+![2.3](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-2-3.png)
 
-Third task:
+Third task has very complex requirement that can be seen from our book:
 
-![3.1](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_3.png)
+![3.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-3-1.png)
 
-![3.2](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task_3_1.png)
+![3.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-3-2.png)
 
-Fourth task:
+Increase note for *Sef_Grupa* considering that note can't be bigger than 10:
 
-![4.1](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/task%204.PNG)
+![4.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-4-1.png)
 
-Fifth task:
+Make columns *Adresa_1* and *Adresa_2* for taking street and number of house from column *Adresa_Postala_Profesor* from table *profesori* respectively:
 
-![5.1](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/Task%205.PNG)
+![5.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-5-1.png)
 
-Second variant of task 5:
+Create schedule *orarul* for Id_Grupa = 1 at Monday inside Bloc 'B':
 
-![5.2](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/5%20-%201.png)
-
-![5.3](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/5%20-%202.png)
-
-Tasks 6, 7, 8:
-
-![6.1](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/task_6_7_8.PNG)
+![6.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-6-1.png)
 
 Second variant of task 6:
 
-![6.2](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/6%20-%201.png)
+![6.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-6-2.png)
 
-![6.3](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/6%20-%202.png)
+Task 6, 7, 8:
 
-Second variant of task 6, 7, 8:
+![6-7-8.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-6-7-8-1.png)
 
-![6.4](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/6%2C7%2C8%20-%201.png)
-
-![6.5](https://github.com/filpatterson/Labs-6-for-SQL/blob/master/images/6%2C7%2C8%20-%202.png)
+![6-7-8.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%206/images/task-6-7-8-2.png)
