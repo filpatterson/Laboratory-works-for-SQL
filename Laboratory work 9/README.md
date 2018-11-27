@@ -19,7 +19,7 @@ Task 3
 
 Task 4
 
-![4.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-1-4.png)
+![4.1](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-4.png)
 
 ![4.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-4-checkBefore.png)
 
@@ -37,9 +37,9 @@ Task 6
 
 ![6.2](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-6-9-result.png)
 
-![6.3](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-1-13.png)
+![6.3](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-6-13.png)
 
-![6.4](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-1-13-result.png)
+![6.4](https://github.com/filpatterson/Laboratory-works-for-SQL/blob/master/Laboratory%20work%209/images/task-6-13-result.png)
 
 Task 7
 
