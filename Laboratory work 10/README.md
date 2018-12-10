@@ -1,4 +1,4 @@
-Laboratory work 9
+Laboratory work 10
 ===
 
 First task requires creation of trigger that will output all changes made to the table *orarul* of type *update*. Here you can see creation of this code and its realization.
